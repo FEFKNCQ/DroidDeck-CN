@@ -4,7 +4,7 @@
 >
 > **夸克网盘**：https://pan.quark.cn/s/e32ac5b9e259
 >
-> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/DroidDeck/releases) 下载。
+> 也可在 [本仓库 Releases](https://github.com/FEFKNCQ/DroidDeck-CN/releases) 下载。
 
 
 <p align="center">
